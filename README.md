@@ -1,4 +1,4 @@
-# phi3mini
+# phi3mini :phi
 phi3mini : Microsoft Phi 3 Mini Model # Generative AI # Chat Playground # Microsoft Foundry
 
 ## Objective
